@@ -8,3 +8,4 @@ langserve
 bs4
 pypdf
 chromadb
+protobuf==3.20.*
